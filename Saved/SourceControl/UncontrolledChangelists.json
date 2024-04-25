@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/main_level.umap"
+				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/main_level.umap",
+				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Blueprints/Chest_BP.uasset",
+				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Blueprints/Weapon_BP.uasset",
+				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Blueprints/WeaponStats_WBP.uasset"
 			]
 		}
 	]
