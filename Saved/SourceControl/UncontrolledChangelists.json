@@ -14,9 +14,14 @@
 				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset",
 				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Mat/M_chest.uasset",
 				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Mat/M_weapon.uasset",
-				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Assets/Data_Struct.uasset",
 				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Assets/Weapon_Struct.uasset",
-				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Blueprints/Weapon_DT.uasset"
+				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Blueprints/Weapon_DT.uasset",
+				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Blueprints/Interaction_WBP.uasset",
+				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Blueprints/Interaction/Interaction_WBP.uasset",
+				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Blueprints/Interaction/Equip_IA.uasset",
+				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Blueprints/Interaction/Interaction_IMC.uasset",
+				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/l.pallez/Documents/Unreal Projects/caseDevelopment/Content/Assets/Data_Struct.uasset"
 			]
 		}
 	]
